@@ -20,3 +20,11 @@ Whether you're a seasoned gamer or a thrill-seeker looking for something new, E-
 Get your hands on Electronic Russian Roulette today and let the games begin! 🎮🔥
 
 (Thats just a joke please dont take it seriously)
+
+# How To Play?
+* Get the main.py file on your desktop
+* Open CMD
+* Locate Desktop
+* Run the python file
+
+It's as easy as that🤗! Enjoy playing😘
